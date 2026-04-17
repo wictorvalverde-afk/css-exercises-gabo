@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.pink-bk {
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+    
+}
+
+.t-fuente {
+    font-size: 24px;
+}
+
+#t-azul {
+    color: blue;
+    font-size: 36px;
+}
+
+#back-verde {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}

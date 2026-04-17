@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.rec-black,
+.rec-y {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.rec-black {
+    background-color: black;
+    color: white;
+}
+
+.rec-y {
+    color: black;
+    background-color: yellow;
+}
